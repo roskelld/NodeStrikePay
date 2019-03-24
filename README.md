@@ -10,3 +10,11 @@ I'll add a README.md soon with instructions on getting this up and running
 
 ## Services
 [ACINQ Strike](https://strike.acinq.co/)
+
+## Thanks 
+
+Big thanks to [Arc](https://github.com/arcbtc) for pioneering this route with [1.21](https://github.com/arcbtc/1.21) it was a great reference point for figuring out the code. I hit some brick walls with my setup (first time working with the hardware and Arduino) so finding 1.21 gave me something to reference.
+
+## License
+
+MIT License.
